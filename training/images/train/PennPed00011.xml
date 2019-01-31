@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <folder>PennFudanPed</folder>
+   <filename>PennPed00011.png</filename>
+   <source>
+      <database>PennFudanPed</database>
+      <annotation>PASCAL Annotaion Version 1.00</annotation>
+      <image>null</image>
+      <flickrid>null</flickrid>
+   </source>
+   <owner>
+      <flickrid>null</flickrid>
+      <name>null</name>
+   </owner>
+   <size>
+      <width>508</width>
+      <height>376</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>person</name>
+      <pose>PennFudanPed</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>92</xmin>
+         <ymin>62</ymin>
+         <xmax>236</xmax>
+         <ymax>344</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>person</name>
+      <pose>PennFudanPed</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>242</xmin>
+         <ymin>52</ymin>
+         <xmax>301</xmax>
+         <ymax>355</ymax>
+      </bndbox>
+   </object>
+</annotation>
