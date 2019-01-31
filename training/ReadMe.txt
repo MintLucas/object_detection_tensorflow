@@ -1,0 +1,1 @@
+python object_detection/model_main.py --pipeline_config_path=object_detection/training/ssd_mobilenet_v1_coco.config --model_dir=object_detection/training --num_train_steps=2000 --num_eval_steps=200 --alsologtostderr
